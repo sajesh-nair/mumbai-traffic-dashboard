@@ -185,13 +185,13 @@ def main():
         st.success(
             "🌅 **Optimized Morning Corporate Shift Strategy:**\n\n"
             "* **The Data Threat:** Alerts spike sharply at **6:00 AM** due to early commercial breakdown bottlenecks on flyover inclines.\n"
-            "* **The Viral Workaround:** If you travel this route, leave early to cross major checkpoints by **5:15 AM**. If you miss that slot, push your departure back to **8:30 AM** to allow recovery teams to clear lanes."
+            "* **Workaround:** If you travel this route, leave early to cross major checkpoints by **5:15 AM**. If you miss that slot, push your departure back to **8:30 AM** to allow recovery teams to clear lanes."
         )
     with col_m2:
         st.warning(
             "🌆 **Optimized Afternoon / Return Shift Strategy:**\n\n"
             "* **The Data Threat:** Mid-day delivery distributions cause a secondary incident wave peaking right around **1:00 PM**.\n"
-            "* **The Viral Workaround:** Avoid traveling during peak afternoon lunch windows. Shift your schedule to travel before **12:00 PM**, or stall your departure until **2:30 PM** to save hours of gridlock time."
+            "* **Workaround:** Avoid traveling during peak afternoon lunch windows. Shift your schedule to travel before **12:00 PM**, or stall your departure until **2:30 PM** to save hours of gridlock time."
         )
 
 if __name__ == "__main__":
